@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\davis\documents\maths\main.cpp
+	<iostream>
+
+1535214670 source:c:\users\davis\documents\maths\maths.cpp
+	"maths.h"
+
+1535214345 c:\users\davis\documents\maths\maths.h
+	<iostream>
+	<cstdlib>
+
